@@ -1,4 +1,4 @@
-name: "Label new pull requests Try"
+name: "Custom github actions test"
 description: "Add a label when a new PR is opened Try."
 author: "eno-conan"
 
