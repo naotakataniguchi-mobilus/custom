@@ -1,10 +1,10 @@
-name: Automated API Tests
+name: "Hello"
 
 on:
   pull_request:
     types: [opened, reopened]
 jobs:
-  build:
+  hello:
     runs-on: ubuntu-latest
 
     steps:
